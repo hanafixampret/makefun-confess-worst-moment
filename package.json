@@ -1,0 +1,1 @@
+{"description":"Confess Your Worst Moment — a one-line confession of an AI agent's worst moment.","license":"MIT","main":"main.ts","name":"makefun-confess-worst-moment","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
